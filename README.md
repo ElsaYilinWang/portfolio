@@ -1,6 +1,6 @@
 # Yilin Elsa Wang — portfolio V1
 
-A desktop-first, one-page portfolio built with React, TypeScript, Vite and plain CSS. No component library, router, backend or animation dependency.
+A responsive, one-page portfolio built with React, TypeScript, Vite and plain CSS. No component library, router, backend or animation dependency.
 
 ## Run locally
 
@@ -49,6 +49,6 @@ The two experiments remain concepts. Contact and writing use the actual LinkedIn
 
 ## V1 scope
 
-Desktop layout is the priority, with simple CSS fallbacks to avoid unusable narrow layouts. A dedicated tablet/mobile design pass and interactive RFQ demo remain V2 work. Google Fonts supplies DM Sans and Manrope; system font fallbacks work if fonts cannot load. No portrait, tracking, cookies or contact form.
+Desktop, tablet and phone layouts are included. Tablets use a full-width RFQ architecture and two-column content where appropriate. Phones use a disclosure navigation menu, naturally wrapping headline, stacked metrics and larger touch targets. The interactive RFQ demo remains V2 work. Google Fonts supplies DM Sans and Manrope; system font fallbacks work if fonts cannot load. No portrait, tracking, cookies or contact form.
 
 The original AI CV contains the contact details supplied in that PDF; View CV opens that exact document. This project is ready to deploy, but creating a remote repository and enabling Pages must be done in your GitHub account.
